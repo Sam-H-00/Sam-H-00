@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam (@Sam-H-00)
 - 👀 I’m interested in the value created at the intersection of tech & finance.
-- 🌱 I’m currently building on knowledge to leverage CS for improved business insight.
+- 🌱 I’m currently building on knowledge that leverages CS for improved business insight.
 - 💞️ 
 - 📫 You can reach me in first instance on Keybase at https://keybase.io/RSP_SH/chat
 
